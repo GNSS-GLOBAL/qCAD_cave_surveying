@@ -10,7 +10,7 @@ The drafting work uses the recorded shot lengths, azimuths, and inclinations to 
 
 ## Deliverables
 
-- ![Cave survey drawing showing the corrected plan, extended profile, and S2 LRUD reference](images/cave_survey.png)
+ ![Cave survey drawing showing the corrected plan, extended profile, and S2 LRUD reference](images/cave_survey.png)
 - [Editable DXF drawing](cave_survey.dxf)
 - [Printable PDF sheet](cave_survey.pdf)
 - [Handwritten source notes and calculations](images/)
